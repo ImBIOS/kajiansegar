@@ -1,19 +1,27 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    title: 'Lorem ipsum',
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis eros, 
+    gravida eu aliquam ut, ornare vel enim. Vestibulum pulvinar sagittis lacus. Maecenas mattis urna a arcu porta, 
+    id auctor velit elementum. Vivamus auctor tempus libero, sit amet imperdiet risus euismod id. 
+    Sed scelerisque orci et metus sodales dignissim. Vestibulum mattis et eros ut viverra. In faucibus a lorem a vestibulum. 
+    Vestibulum sed pharetra arcu, nec convallis massa. Curabitur volutpat fermentum justo, 
+    nec faucibus odio semper vitae. Ut efficitur id enim sed mattis. Suspendisse ut ornare erat. 
+    Praesent et dui vel erat pellentesque pharetra suscipit vel felis.`,
     imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    href: '#',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
+    title: 'Lorem ipsum',
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce felis eros, 
+    gravida eu aliquam ut, ornare vel enim. Vestibulum pulvinar sagittis lacus. Maecenas mattis urna a arcu porta, 
+    id auctor velit elementum. Vivamus auctor tempus libero, sit amet imperdiet risus euismod id. 
+    Sed scelerisque orci et metus sodales dignissim. Vestibulum mattis et eros ut viverra. In faucibus a lorem a vestibulum. 
+    Vestibulum sed pharetra arcu, nec convallis massa. Curabitur volutpat fermentum justo, 
+    nec faucibus odio semper vitae. Ut efficitur id enim sed mattis. Suspendisse ut ornare erat. 
+    Praesent et dui vel erat pellentesque pharetra suscipit vel felis.`,
     imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    href: '#',
   },
 ]
 
